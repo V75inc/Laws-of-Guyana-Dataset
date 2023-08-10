@@ -1,0 +1,33 @@
+[
+    {
+        "act": "OFFICE OF THE SPOUSE OF THE PRESIDENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "1",
+            "title": "Short title. ",
+            "context": "OFFICE OF THE SPOUSE OF THE PRESIDENT ACT under Short title. 1. This Act may be cited as the Office of the Spouse of the President Act.",
+            "description": "This Act may be cited as the Office of the Spouse of the President Act."
+        }
+    },
+    {
+        "act": "OFFICE OF THE SPOUSE OF THE PRESIDENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "2",
+            "title": "Office of the Spouse of the President. ",
+            "context": "OFFICE OF THE SPOUSE OF THE PRESIDENT ACT under Office of the Spouse of the President. 2. (1) There shall be a public office called the Office of the Spouse of the President:  Provided that where the office is held by a woman, it shall be called the Office of the First Lady.  (2) The Office of the Spouse of the President shall be held by the spouse of a serving President and its tenure shall be co- terminus with that of the serving President.",
+            "description": [
+                {
+                    "representation": "(1)",
+                    "description": "There shall be a public office called the Office of the Spouse of the President:  Provided that where the office is held by a woman, it shall be called the Office of the First Lady."
+                },
+                {
+                    "representation": "(2)",
+                    "description": "The Office of the Spouse of the President shall be held by the spouse of a serving President and its tenure shall be co- terminus with that of the serving President."
+                }
+            ]
+        }
+    }
+]

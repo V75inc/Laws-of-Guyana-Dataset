@@ -1,0 +1,69 @@
+[
+    {
+        "act": "NATIONAL ASSEMBLY (DISQUALIFICATION) ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "1",
+            "title": "",
+            "context": "NATIONAL ASSEMBLY (DISQUALIFICATION) ACT under 1. This Act may be cited as the National Assembly (Disqualification) Act.   NATIONAL ASSEMBLY DISQUALIFICATION ACT  LAWS OF GUYANA 4 Cap. 1:06 National Assembly (Disqualification)   L.R.O. 1/2012  Disqualifi-cation. [4 of 1972 6 of 1981 8 of 1982]",
+            "description": "This Act may be cited as the National Assembly (Disqualification) Act.   NATIONAL ASSEMBLY DISQUALIFICATION ACT  LAWS OF GUYANA 4 Cap. 1:06 National Assembly (Disqualification)   L.R.O. 1/2012  Disqualifi-cation. [4 of 1972 6 of 1981 8 of 1982]"
+        }
+    },
+    {
+        "act": "NATIONAL ASSEMBLY (DISQUALIFICATION) ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "2",
+            "title": "",
+            "context": "NATIONAL ASSEMBLY (DISQUALIFICATION) ACT under 2. (1) Subject to section 3, a person shall be disqualified for membership of the National Assembly  (a)    while he holds or acts in any office of emolument in a civil capacity in the service of the government of Guyana or of any other Commonwealth territory, other than in the office of a teacher in the public service:  Provided that the foregoing provisions of this paragraph shall not apply in the case of a person who has not yet made and subscribed the oath of office required by article 167 of the Constitution;  (b)       while he is a member of the legislature of any country or territory outside Guyana; or  (c)      without prejudice to the generality of any provisions of this section, while he  (i)   is  a  member of the Guyana Police  Force or of the Guyana Defence Force; or                                                (ii)   holds or acts in any office referred to in the First  Schedule.       (2)  For the avoidance of doubt it is hereby declared that nothing in this Act shall be deemed to disqualify or ever to have disqualified a person for membership of the National Assembly by reason only of the fact that he holds or acts in LAWS OF GUYANA National Assembly (Disqualification)     Cap. 1:06 5  L.R.O. 1/2012            Exceptions.  [4 of 1972]                   Government contracts. [8 of 1982 16 of 1988 6 of 1997]      any office of emolument in, or in the service of, any public corporation or any corporate body in which the controlling interest vests in the State or in any agency on behalf of the State.",
+            "description": [
+                {
+                    "representation": "(1)",
+                    "description": "Subject to section 3, a person shall be disqualified for membership of the National Assembly"
+                },
+                {
+                    "representation": "(a)",
+                    "description": "while he holds or acts in any office of emolument in a civil capacity in the service of the government of Guyana or of any other Commonwealth territory, other than in the office of a teacher in the public service:  Provided that the foregoing provisions of this paragraph shall not apply in the case of a person who has not yet made and subscribed the oath of office required by article 167 of the Constitution;"
+                },
+                {
+                    "representation": "(b)",
+                    "description": "while he is a member of the legislature of any country or territory outside Guyana; or"
+                },
+                {
+                    "representation": "(c)",
+                    "description": "without prejudice to the generality of any provisions of this section, while he"
+                },
+                {
+                    "representation": "(i)",
+                    "description": "is  a  member of the Guyana Police  Force or of the Guyana Defence Force; or"
+                },
+                {
+                    "representation": "(2)",
+                    "description": "For the avoidance of doubt it is hereby declared that nothing in this Act shall be deemed to disqualify or ever to have disqualified a person for membership of the National Assembly by reason only of the fact that he holds or acts in LAWS OF GUYANA National Assembly"
+                }
+            ]
+        }
+    },
+    {
+        "act": "NATIONAL ASSEMBLY (DISQUALIFICATION) ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "3",
+            "title": "",
+            "context": "NATIONAL ASSEMBLY (DISQUALIFICATION) ACT under 3. The grounds hereinbefore prescribed for disqualification for membership of the National Assembly shall be deemed not to include holding or acting in (whether for emolument or not) any office  (a)     to  which  a  member  of  the  National  Assembly  is expressly or    impliedly authorised or required to be appointed by any written law; or  (b)   which  (without  prejudice  to  the  generality  of  any provisions  of  this  section)  is  referred  to  in  the  Second Schedule.",
+            "description": [
+                {
+                    "representation": "(a)",
+                    "description": "to  which  a  member  of  the  National  Assembly  is expressly or    impliedly authorised or required to be appointed by any written law; or"
+                },
+                {
+                    "representation": "(b)",
+                    "description": "which"
+                }
+            ]
+        }
+    }
+]

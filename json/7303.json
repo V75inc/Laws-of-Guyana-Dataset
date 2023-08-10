@@ -1,0 +1,643 @@
+[
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "1",
+            "title": "Short title. ",
+            "context": "INVESTMENT ACT under Short title. 1. This Act may be cited as the Investment Act.",
+            "description": "This Act may be cited as the Investment Act."
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "2",
+            "title": "Interpretation. ",
+            "context": "INVESTMENT ACT under Interpretation. 2. (1) In this Act  domestic investor means  (i) a citizen of Guyana;  (ii) a body   corporate   established   in   Guyana   in conformity with the laws thereof and which is substantially owned and controlled by citizens of Guyana; LAWS OF GUYANA 6 Cap. 73:03 Investment                            Objectives.                          (iii) citizen of any other Member State of the Caribbean Community established under the Treaty done at Chaguaramas on 4th July, 1973;  foreign investor means an investor, not being a domestic investor; investment  enterprise means an enterprise owned by an investor or investors;  investor means a natural or juridical person investing capital in Guyana on the basis of mutual benefit and observance of the laws of Guyana;  Minister means the Minister responsible for Finance.",
+            "description": [
+                {
+                    "representation": "(1)",
+                    "description": "In this Act  domestic investor means"
+                },
+                {
+                    "representation": "(i)",
+                    "description": "a citizen of Guyana;"
+                }
+            ]
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "3",
+            "title": "Objectives. ",
+            "context": "INVESTMENT ACT under Objectives. 3. The  objectives  of  this  Act  are  to  stimulate  the  socio- economic development of Guyana, and to attract and facilitate investment by  (a) providing legal protection for investment;  (b) increasing the predictability, stability and transparency of the legal regime for investment;  (c) promoting the development of international best practices regarding investment;  (d) streamlining the existing procedures for investment;  (e) establishing the structure, role and LAWS OF GUYANA Investment Cap. 73:03 7  L.R.O. 1/2012       Government encouragement of investment.             Fields of  activity open to investors.               Fields of  activity closed to investors.    Forms of investment.     responsibilities of the Investment  Promotion  Council  established pursuant  to section",
+            "description": [
+                {
+                    "representation": "(a)",
+                    "description": "providing legal protection for investment;"
+                },
+                {
+                    "representation": "(b)",
+                    "description": "increasing the predictability, stability and transparency of the legal regime for investment;"
+                },
+                {
+                    "representation": "(c)",
+                    "description": "promoting the development of international best practices regarding investment;"
+                },
+                {
+                    "representation": "(d)",
+                    "description": "streamlining the existing procedures for investment;"
+                },
+                {
+                    "representation": "(e)",
+                    "description": "establishing the structure, role and LAWS OF GUYANA Investment Cap. 73:03 7  L.R.O. 1/2012       Government encouragement of investment.             Fields of  activity open to investors.               Fields of  activity closed to investors.    Forms of investment.     responsibilities of the Investment  Promotion  Council  established pursuant  to section"
+                }
+            ]
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "4",
+            "title": "Government encouragement of investment. ",
+            "context": "INVESTMENT ACT under Government encouragement of investment. 4. (1)  The Government encourages  and seeks to  facilitate persons, either individuals or legal entities, to invest capital in Guyana on the basis of mutual benefit and observance of the laws of Guyana and international treaties or agreements to which the State or Government is a party.  (2) There shall be no discrimination between foreign and domestic investors nor among foreign investors from different countries.",
+            "description": [
+                {
+                    "representation": "(1)",
+                    "description": "The Government encourages  and seeks to  facilitate persons, either individuals or legal entities, to invest capital in Guyana on the basis of mutual benefit and observance of the laws of Guyana and international treaties or agreements to which the State or Government is a party."
+                },
+                {
+                    "representation": "(2)",
+                    "description": "There shall be no discrimination between foreign and domestic investors nor among foreign investors from different countries."
+                }
+            ]
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "5",
+            "title": "Fields of activity open to investors. ",
+            "context": "INVESTMENT ACT under Fields of activity open to investors. 5. (1) Investors may invest in and operate enterprises in all fields of lawful economic activity including in particular, but not limited to agriculture, fisheries and forestry, manufacturing, energy, mineral extraction, handicrafts,   communications   and   transport, construction, tourism, trade, and professional services,  except for sectors which may be determined by the Minister, which shall be subject to affirmative resolution of the National Assembly.  (2) Notification of the approval of the National Assembly pursuant to subsection (1) shall be published as soon as practicable in the Gazette.",
+            "description": [
+                {
+                    "representation": "(1)",
+                    "description": "shall be published as soon as practicable in the Gazette."
+                },
+                {
+                    "representation": "(2)",
+                    "description": "Notification of the approval of the National Assembly pursuant to subsection"
+                }
+            ]
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "6",
+            "title": "Fields of activity closed to investors. ",
+            "context": "INVESTMENT ACT under Fields of activity closed to investors. 6. Investors   shall   not   invest   in   or   operate   investment enterprises which are prejudicial to national security, or detrimental to the natural environment, or public health, or which contravene the laws of Guyana.",
+            "description": "Investors   shall   not   invest   in   or   operate   investment enterprises which are prejudicial to national security, or detrimental to the natural environment, or public health, or which contravene the laws of Guyana."
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "7",
+            "title": "Forms of investment. ",
+            "context": "INVESTMENT ACT under Forms of investment. 7. Investors may invest equity in an investment enterprise in either of the following two forms  (a) a joint venture enterprise involving two or more domestic investors; or two or more LAWS OF GUYANA 8 Cap. 73:03 Investment               Joint Ventures.        Contribution of capital to Foreign Joint Ventures. 29 of 1991 c.88:02 c.89:01 c.89:02 c.90:05    Incorporation registration or establishment. 29 of 1991 c.89:01 c.89:01 c.90:05 c.88:02  Legal forms of an investment enterprise. 29 of 1991 c.88:02 c.89:01 c.89:02 c.90:05  foreign investors; or involving one or more foreign investors and one or more domestic investors; or  (b) a wholly-owned  enterprise  whether  it  is  owned by  foreign investors or domestic investors.",
+            "description": [
+                {
+                    "representation": "(a)",
+                    "description": "a joint venture enterprise involving two or more domestic investors; or two or more LAWS OF GUYANA 8 Cap. 73:03 Investment               Joint Ventures.        Contribution of capital to Foreign Joint Ventures. 29 of 1991 c.88:02 c.89:01 c.89:02 c.90:05    Incorporation registration or establishment. 29 of 1991 c.89:01 c.89:01 c.90:05 c.88:02  Legal forms of an investment enterprise. 29 of 1991 c.88:02 c.89:01 c.89:02 c.90:05  foreign investors; or involving one or more foreign investors and one or more domestic investors; or"
+                },
+                {
+                    "representation": "(b)",
+                    "description": "a wholly-owned  enterprise  whether  it  is  owned by  foreign investors or domestic investors."
+                }
+            ]
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "8",
+            "title": "Joint Ventures. ",
+            "context": "INVESTMENT ACT under Joint Ventures. 8. The organisation, management  and  activities  of  a  joint venture and the relationship of its parties shall be governed by the contract entered into by the parties thereto and the Articles of Association of the joint venture, in accordance with the laws of Guyana.",
+            "description": "The organisation, management  and  activities  of  a  joint venture and the relationship of its parties shall be governed by the contract entered into by the parties thereto and the Articles of Association of the joint venture, in accordance with the laws of Guyana."
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "9",
+            "title": "Contribution of capital to Foreign Joint Ventures. ",
+            "context": "INVESTMENT ACT under Contribution of capital to Foreign Joint Ventures. 9. Investors investing in a joint venture may contribute any portion of the total equity investment in that venture. If a joint venture has a foreign investor or investors, for the purposes of establishing value, the contribution of the ventures foreign investor or investors shall be converted in accordance with the laws of Guyana into Guyana Dollars at the exchange buying rate then prevailing on the date of the equity payment or payments, as quoted by the Bank of Guyana.",
+            "description": "Investors investing in a joint venture may contribute any portion of the total equity investment in that venture. If a joint venture has a foreign investor or investors, for the purposes of establishing value, the contribution of the ventures foreign investor or investors shall be converted in accordance with the laws of Guyana into Guyana Dollars at the exchange buying rate then prevailing on the date of the equity payment or payments, as quoted by the Bank of Guyana."
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "10",
+            "title": "Incorporation, registration or establishment. ",
+            "context": "INVESTMENT ACT under Incorporation, registration or establishment. 10. The incorporation, registration, or establishment   of an investment enterprise shall be in accordance with the Companies Act, the Partnership Act, the Business Names (Registration) Act, or the Cooperative Societies Act.",
+            "description": "The incorporation, registration, or establishment   of an investment enterprise shall be in accordance with the Companies Act, the Partnership Act, the Business Names (Registration) Act, or the Cooperative Societies Act."
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "11",
+            "title": "Legal forms of an investment enterprise. ",
+            "context": "INVESTMENT ACT under Legal forms of an investment enterprise. 11. Investors shall establish an investment enterprise in any of the following forms:  (a) a Registered Business Name Enterprise;  (b) a partnership under the Partnership LAWS OF GUYANA Investment Cap. 73:03 9  L.R.O. 1/2012            Ownership regulations.          Government protection of investment.    Compulsory acquisition by Government.                     Act;  (c) a  company  incorporated  under  the  Companies Act;  (d) a cooperative society registered under the Cooperative Societies Act.",
+            "description": [
+                {
+                    "representation": "(a)",
+                    "description": "a Registered Business Name Enterprise;"
+                },
+                {
+                    "representation": "(b)",
+                    "description": "a partnership under the Partnership LAWS OF GUYANA Investment Cap. 73:03 9  L.R.O. 1/2012            Ownership regulations.          Government protection of investment.    Compulsory acquisition by Government.                     Act;"
+                },
+                {
+                    "representation": "(c)",
+                    "description": "a  company  incorporated  under  the  Companies Act;"
+                },
+                {
+                    "representation": "(d)",
+                    "description": "a cooperative society registered under the Cooperative Societies Act."
+                }
+            ]
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "12",
+            "title": "Ownership regulations.  PART II RIGHTS, GUARANTEES AND OBLIGATIONS OF INVESTORS  ",
+            "context": "INVESTMENT ACT under Ownership regulations.  PART II RIGHTS, GUARANTEES AND OBLIGATIONS OF INVESTORS  12.  An investment enterprise may  be  wholly  owned  by either foreign or domestic investors, but there is no requirement that a domestic investor shall own any shares in any investment enterprise. PART II RIGHTS, GUARANTEES AND OBLIGATIONS OF INVESTORS",
+            "description": "An investment enterprise may  be  wholly  owned  by either foreign or domestic investors, but there is no requirement that a domestic investor shall own any shares in any investment enterprise. PART II RIGHTS, GUARANTEES AND OBLIGATIONS OF INVESTORS"
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "13",
+            "title": "Government protection of investment. ",
+            "context": "INVESTMENT ACT under Government protection of investment. 13. The Government shall protect investments and the property of investors in accordance with the laws of Guyana.",
+            "description": "The Government shall protect investments and the property of investors in accordance with the laws of Guyana."
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "14",
+            "title": "Compulsory acquisition by Government. ",
+            "context": "INVESTMENT ACT under Compulsory acquisition by Government. 14. The Government shall not compulsorily acquire or take possession of any investment enterprise, or any asset of an investor, except  (a) for a purpose which is in accordance with the laws of Guyana;  (b) on a non-discriminatory basis;  (c) in  accordance  with  the  procedures  provided  by law;  (d) there is prompt payment of adequate compensation together  with  interest  calculated from the date of acquisition or taking possession of the investment LAWS OF GUYANA 10 Cap. 73:03 Investment                        Leasing and owning land.      Non-intervention by Government. c.91:01      Free export and import. c.91:01               enterprise or asset to the date of payment at the  commercial bank rate on loans to the corporate sector; and  (e) there is a right of access to the High Court by any person claiming such compensation for the determination of any interest in or  right over the investment enterprise or assets thereof and the amount of compensation.",
+            "description": [
+                {
+                    "representation": "(a)",
+                    "description": "for a purpose which is in accordance with the laws of Guyana;"
+                },
+                {
+                    "representation": "(b)",
+                    "description": "on a non-discriminatory basis;"
+                },
+                {
+                    "representation": "(c)",
+                    "description": "in  accordance  with  the  procedures  provided  by law;"
+                },
+                {
+                    "representation": "(d)",
+                    "description": "there is prompt payment of adequate compensation together  with  interest  calculated from the date of acquisition or taking possession of the investment LAWS OF GUYANA 10 Cap. 73:03 Investment                        Leasing and owning land.      Non-intervention by Government. c.91:01      Free export and import. c.91:01               enterprise or asset to the date of payment at the  commercial bank rate on loans to the corporate sector; and"
+                },
+                {
+                    "representation": "(e)",
+                    "description": "there is a right of access to the High Court by any person claiming such compensation for the determination of any interest in or  right over the investment enterprise or assets thereof and the amount of compensation."
+                }
+            ]
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "15",
+            "title": "Leasing and owning land. ",
+            "context": "INVESTMENT ACT under Leasing and owning land. 15. Subject to the laws for the time being in force, investors may purchase or lease land in Guyana and dispose of or transfer their interests in or rights over the land.",
+            "description": "Subject to the laws for the time being in force, investors may purchase or lease land in Guyana and dispose of or transfer their interests in or rights over the land."
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "16",
+            "title": "Non-intervention by Government. ",
+            "context": "INVESTMENT ACT under Non-intervention by Government. 16. Notwithstanding the provisions of the Trade Act, the Government shall not intervene in the management of investment enterprises; nor shall the Government impose conditions on the sale, pricing, or distribution of the products of those enterprises, except in the pricing of services provided by utilities.",
+            "description": "Notwithstanding the provisions of the Trade Act, the Government shall not intervene in the management of investment enterprises; nor shall the Government impose conditions on the sale, pricing, or distribution of the products of those enterprises, except in the pricing of services provided by utilities."
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "17",
+            "title": "Free export and import. ",
+            "context": "INVESTMENT ACT under Free export and import. 17. (1) Notwithstanding the provisions of the Trade Act, the Government shall guarantee the rights of investors and investment enterprises to import or export all or any products free from restriction or limitation, except for products the ownership or possession of which is prohibited by law, or products which may be determined by the Minister and which shall be subject to affirmative resolution of the National Assembly.  (2) Notification of the approval of the National Assembly pursuant to subsection (1) shall be published as soon as practicable in the Gazette.  L.R.O. 1/2012 LAWS OF GUYANA Investment Cap. 73:03 11  L.R.O. 1/2012 Right to profit distribution.          Employment of foreign personnel. c.14:02 c.98:",
+            "description": [
+                {
+                    "representation": "(1)",
+                    "description": "shall be published as soon as practicable in the Gazette.  L.R.O. 1/2012 LAWS OF GUYANA Investment Cap. 73:03 11  L.R.O. 1/2012 Right to profit distribution.          Employment of foreign personnel. c.14:02 c.98:"
+                },
+                {
+                    "representation": "(2)",
+                    "description": "Notification of the approval of the National Assembly pursuant to subsection"
+                }
+            ]
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "18",
+            "title": "Right to profit distribution. ",
+            "context": "INVESTMENT ACT under Right to profit distribution. 18. The Government hereby guarantees the right of investors and investment enterprises, irrespective of their form, to freely determine the distribution of all profits or dividends, and the right of investors to receive their total share in such profits or dividends providing the corresponding tax obligations of the investors and investment enterprise are satisfied.",
+            "description": "The Government hereby guarantees the right of investors and investment enterprises, irrespective of their form, to freely determine the distribution of all profits or dividends, and the right of investors to receive their total share in such profits or dividends providing the corresponding tax obligations of the investors and investment enterprise are satisfied."
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "19",
+            "title": "Employment of foreign personnel. ",
+            "context": "INVESTMENT ACT under Employment of foreign personnel. 19. Investment enterprises have the right to employ skilled and expert foreign personnel when necessary and with the approval of the competent authority of the Government in compliance with the Immigration Act and the Labour Act.",
+            "description": "Investment enterprises have the right to employ skilled and expert foreign personnel when necessary and with the approval of the competent authority of the Government in compliance with the Immigration Act and the Labour Act."
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "20",
+            "title": "Entry and exit. ",
+            "context": "INVESTMENT ACT under Entry and exit. 20. The Government shall facilitate the entry into, stay in, and departure from Guyana of investors, their foreign personnel, and their immediate family members in accordance with the Immigration Act, but such persons are subject to and must comply with the laws of Guyana while they are in Guyana.",
+            "description": "The Government shall facilitate the entry into, stay in, and departure from Guyana of investors, their foreign personnel, and their immediate family members in accordance with the Immigration Act, but such persons are subject to and must comply with the laws of Guyana while they are in Guyana."
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "21",
+            "title": "Work permits. ",
+            "context": "INVESTMENT ACT under Work permits. 21. The Government shall facilitate foreign investors and foreign personnel of investors in obtaining work permits in compliance with the Immigration Act.",
+            "description": "The Government shall facilitate foreign investors and foreign personnel of investors in obtaining work permits in compliance with the Immigration Act."
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "22",
+            "title": "Tax obligations. ",
+            "context": "INVESTMENT ACT under Tax obligations. 22. Foreign personnel employed in investment enterprises and their families shall pay taxes, duties or other imposts for which they are liable pursuant to the laws of Guyana.",
+            "description": "Foreign personnel employed in investment enterprises and their families shall pay taxes, duties or other imposts for which they are liable pursuant to the laws of Guyana."
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "23",
+            "title": "Bank accounts. ",
+            "context": "INVESTMENT ACT under Bank accounts. 23. Investors may open accounts in the currency of Guyana and in foreign convertible  currency  with  any  corporate  body licensed to carry on banking business in Guyana under the Banking Act.",
+            "description": "Investors may open accounts in the currency of Guyana and in foreign convertible  currency  with  any  corporate  body licensed to carry on banking business in Guyana under the Banking Act."
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "24",
+            "title": "Transfer of funds abroad. ",
+            "context": "INVESTMENT ACT under Transfer of funds abroad. 24. Subject to the liability for the payment of all applicable taxes due, investors may freely and without hindrance  LAWS OF GUYANA 12 Cap. 73:03 Investment                                     Limitations on the right to transfer funds abroad.            (a) repatriate  dividends,  earnings  and  capital  from their investment enterprises;  (b) remit   the   proceeds   in   the   event   of   sale   or liquidation of an enterprise or the interest attributable to an investment;  (c) pay interest on international loans;  (d)   pay for imports;  (e) pay fees for trademarks, royalties and management and other fees; and  (f) pay licensing fees for franchising agreements, to their  own  home  countries  or  to  other countries  through  a corporate body licensed to carry on banking business in Guyana under the Banking Act.",
+            "description": [
+                {
+                    "representation": "(a)",
+                    "description": "repatriate  dividends,  earnings  and  capital  from their investment enterprises;"
+                },
+                {
+                    "representation": "(b)",
+                    "description": "remit   the   proceeds   in   the   event   of   sale   or liquidation of an enterprise or the interest attributable to an investment;"
+                },
+                {
+                    "representation": "(c)",
+                    "description": "pay interest on international loans;"
+                },
+                {
+                    "representation": "(d)",
+                    "description": "pay for imports;"
+                },
+                {
+                    "representation": "(e)",
+                    "description": "pay fees for trademarks, royalties and management and other fees; and"
+                },
+                {
+                    "representation": "(f)",
+                    "description": "pay licensing fees for franchising agreements, to their  own  home  countries  or  to  other countries  through  a corporate body licensed to carry on banking business in Guyana under the Banking Act."
+                }
+            ]
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "25",
+            "title": "Limitations on the right to transfer funds abroad.  LAWS OF GUYANA 4 Cap. 73:03 Investment   SECTION  ",
+            "context": "INVESTMENT ACT under Limitations on the right to transfer funds abroad.  LAWS OF GUYANA 4 Cap. 73:03 Investment   SECTION  25. Notwithstanding the guarantees specified in section 24, the Government may prevent a transfer of funds through the equitable, non-discriminatory and good faith application of Acts in the following circumstances  (a) bankruptcy,  insolvency,  or  for  the  protection  of the rights of stockholders or creditors;  (b) if   criminal   proceedings against the   investor   or investment   enterprise   are   pending   before   the funds; or L.R.O. 1/2012 LAWS OF GUYANA Investment Cap. 73:03 13  L.R.O. 1/2012          Right of personnel and dependants to transfer funds abroad.    Intellectual property rights.    Dispute resolution.               c.7:03               (c) to ensure compliance with orders or judgments of courts or tribunals.",
+            "description": [
+                {
+                    "representation": "(a)",
+                    "description": "bankruptcy,  insolvency,  or  for  the  protection  of the rights of stockholders or creditors;"
+                },
+                {
+                    "representation": "(b)",
+                    "description": "if   criminal   proceedings against the   investor   or investment   enterprise   are   pending   before   the funds; or L.R.O. 1/2012 LAWS OF GUYANA Investment Cap. 73:03 13  L.R.O. 1/2012          Right of personnel and dependants to transfer funds abroad.    Intellectual property rights.    Dispute resolution.               c.7:03"
+                },
+                {
+                    "representation": "(c)",
+                    "description": "to ensure compliance with orders or judgments of courts or tribunals."
+                }
+            ]
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "26",
+            "title": "Right of personnel and dependants to transfer funds abroad. ",
+            "context": "INVESTMENT ACT under Right of personnel and dependants to transfer funds abroad. 26. Foreign personnel employed in investment enterprises and their families may also repatriate their earnings, after payment of personal income taxes imposed by law in Guyana and all other taxes due, except when any of the conditions under section 25 exists.",
+            "description": "Foreign personnel employed in investment enterprises and their families may also repatriate their earnings, after payment of personal income taxes imposed by law in Guyana and all other taxes due, except when any of the conditions under section 25 exists."
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "27",
+            "title": "Intellectual property rights. ",
+            "context": "INVESTMENT ACT under Intellectual property rights. 27. The intellectual property rights of investors and investment enterprises are guaranteed under the applicable laws of Guyana.",
+            "description": "The intellectual property rights of investors and investment enterprises are guaranteed under the applicable laws of Guyana."
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "28",
+            "title": "Dispute resolution. ",
+            "context": "INVESTMENT ACT under Dispute resolution. 28. (1) In the event of disputes among foreign investors within an investment enterprise, or among foreign investors and domestic investors, or among Guyanese investors, or between the investors  and  the  Government  with  respect  to  an  investment enterprise, the parties to the dispute shall first seek to settle their disputes through consultation or meditation in order to reach an amicable settlement.  (2)  If parties to the dispute fail to resolve the matter, they may  (a) submit their dispute to arbitration under the Arbitration Act;  (b) invoke  the  jurisdiction  of  the  competent courts in Guyana;  (c) adopt such other procedure provided for in the articles of association or other constituent document of the investment enterprise; or  LAWS OF GUYANA 14 Cap. 73:03 Investment           Obligations of investors to adhere to environmental health and safety laws. c. 20:01             Obligation of investigators to adhere to the National Standards of Guyana. c.90:15   Union representation, social insurance and welfare. c.36:01 c.98:07    Accounting standards and audit.   (d) submit their  dispute  to  the  International Centre for the Settlement of Investment Disputes (ICSID) of which Guyana is a member.",
+            "description": [
+                {
+                    "representation": "(1)",
+                    "description": "In the event of disputes among foreign investors within an investment enterprise, or among foreign investors and domestic investors, or among Guyanese investors, or between the investors  and  the  Government  with  respect  to  an  investment enterprise, the parties to the dispute shall first seek to settle their disputes through consultation or meditation in order to reach an amicable settlement."
+                },
+                {
+                    "representation": "(2)",
+                    "description": "If parties to the dispute fail to resolve the matter, they may"
+                },
+                {
+                    "representation": "(a)",
+                    "description": "submit their dispute to arbitration under the Arbitration Act;"
+                },
+                {
+                    "representation": "(b)",
+                    "description": "invoke  the  jurisdiction  of  the  competent courts in Guyana;"
+                },
+                {
+                    "representation": "(c)",
+                    "description": "adopt such other procedure provided for in the articles of association or other constituent document of the investment enterprise; or  LAWS OF GUYANA 14 Cap. 73:03 Investment           Obligations of investors to adhere to environmental health and safety laws. c. 20:01             Obligation of investigators to adhere to the National Standards of Guyana. c.90:15   Union representation, social insurance and welfare. c.36:01 c.98:07    Accounting standards and audit."
+                },
+                {
+                    "representation": "(d)",
+                    "description": "submit their  dispute  to  the  International Centre for the Settlement of Investment Disputes"
+                }
+            ]
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "29",
+            "title": "Obligations of investors to adhere to environment, health and safety laws. ",
+            "context": "INVESTMENT ACT under Obligations of investors to adhere to environment, health and safety laws. 29. Investors shall conduct their operations in accordance with the laws of Guyana and in particular, take all measures necessary and appropriate to ensure that the facilities, factories, products and activities of their investment enterprises protect  (a) the  natural  environment   as  mandated  by  the Environmental Protection Act; and  (b) the health and safety of workers and the general public under the applicable laws of Guyana.",
+            "description": [
+                {
+                    "representation": "(a)",
+                    "description": "the  natural  environment   as  mandated  by  the Environmental Protection Act; and"
+                },
+                {
+                    "representation": "(b)",
+                    "description": "the health and safety of workers and the general public under the applicable laws of Guyana."
+                }
+            ]
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "30",
+            "title": "Obligation of investors to adhere to the National Standards of Guyana. ",
+            "context": "INVESTMENT ACT under Obligation of investors to adhere to the National Standards of Guyana. 30. In accordance with the Guyana National Bureau of Standards Act, investors shall comply with the standards of the Guyana National Bureau of Standards regarding the importation of products and investment equipment and in their outputs.",
+            "description": "In accordance with the Guyana National Bureau of Standards Act, investors shall comply with the standards of the Guyana National Bureau of Standards regarding the importation of products and investment equipment and in their outputs."
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "31",
+            "title": "Union representation, social insurance and welfare. ",
+            "context": "INVESTMENT ACT under Union representation, social insurance and welfare. 31. In accordance with the Trade Union Recognition Act, investors shall grant union recognition at any site of operations if the majority of their employees indicate the desire for union representation. Investment enterprises shall contribute to the social insurance and welfare programme for their workers in accordance with the National Insurance Act.",
+            "description": "In accordance with the Trade Union Recognition Act, investors shall grant union recognition at any site of operations if the majority of their employees indicate the desire for union representation. Investment enterprises shall contribute to the social insurance and welfare programme for their workers in accordance with the National Insurance Act."
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "32",
+            "title": "Accounting standards and audit. ",
+            "context": "INVESTMENT ACT under Accounting standards and audit. 32. Investors shall comply with the international accounting principles and standards acceptable in Guyana.  L.R.O. 1/2012 LAWS OF GUYANA Investment Cap. 73:03 15  L.R.O. 1/2012 Taxation.      Sovereign immunity.  c.6:05       Regulations.         Investment priority categories.  c. 81:02  Publication of incentives granted. c. 81:02  Audit.  c. 81:02",
+            "description": "Investors shall comply with the international accounting principles and standards acceptable in Guyana.  L.R.O. 1/2012 LAWS OF GUYANA Investment Cap. 73:03 15  L.R.O. 1/2012 Taxation.      Sovereign immunity.  c.6:05       Regulations.         Investment priority categories.  c. 81:02  Publication of incentives granted. c. 81:02  Audit.  c. 81:02"
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "33",
+            "title": "Taxation. ",
+            "context": "INVESTMENT ACT under Taxation. 33. Investors shall pay all relevant taxes, except as exempted under any law.",
+            "description": "Investors shall pay all relevant taxes, except as exempted under any law."
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "34",
+            "title": "Sovereign immunity. ",
+            "context": "INVESTMENT ACT under Sovereign immunity. 34. In accordance with the provisions of the State Liability and Proceedings Act, the Government shall not assert or claim any right of sovereign immunity in relation to its activities as a domestic investor, or its commercial activities in respect of an investment enterprise, or in relation to any investment or commercial dispute.",
+            "description": "In accordance with the provisions of the State Liability and Proceedings Act, the Government shall not assert or claim any right of sovereign immunity in relation to its activities as a domestic investor, or its commercial activities in respect of an investment enterprise, or in relation to any investment or commercial dispute."
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "35",
+            "title": "Regulations.  PART III FISCAL INCENTIVES  ",
+            "context": "INVESTMENT ACT under Regulations.  PART III FISCAL INCENTIVES  35. The Minister may make regulation for better implementation of this Act.  PART III INVESTMENT PRIORITIES",
+            "description": "The Minister may make regulation for better implementation of this Act.  PART III INVESTMENT PRIORITIES"
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "36",
+            "title": "Investment priority categories. ",
+            "context": "INVESTMENT ACT under Investment priority categories. 36. Investment   priority categories shall   be detailed in Priority Lists as set out in section 2 of the Income Tax (In Aid of Industry) Act.",
+            "description": "Investment   priority categories shall   be detailed in Priority Lists as set out in section 2 of the Income Tax (In Aid of Industry) Act."
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "37",
+            "title": "Publication of incentives granted. ",
+            "context": "INVESTMENT ACT under Publication of incentives granted. 37. The Government shall publish in the Gazette information regarding all fiscal incentives granted under section 2 of the Income Tax (In Aid of Industry) Act.",
+            "description": "The Government shall publish in the Gazette information regarding all fiscal incentives granted under section 2 of the Income Tax (In Aid of Industry) Act."
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "38",
+            "title": "Audit.   PART IV ADMINISTRATIVE STRUCTURES AND PROCEDURES  ",
+            "context": "INVESTMENT ACT under Audit.   PART IV ADMINISTRATIVE STRUCTURES AND PROCEDURES  38. (1) The Auditor General, or any suitably qualified person designated by him for  the  purpose,  shall  annually  carry  out  a procedural  or  process  audit  of incentives granted under section 2 of the Income Tax (In Aid of Industry) Act to an investor or an investment enterprise.  (2) The report of the audit carried out pursuant to subsection (1) shall be laid  in the  National  Assembly within  six months after the end of each financial year.    LAWS OF GUYANA 16 Cap. 73:03 Investment         Role of Go- Invest. c. 19:05       The Investment Promotion Council.                                 PART IV ADMINISTRATIVE STRUCTURES AND PROCEDURES",
+            "description": [
+                {
+                    "representation": "(1)",
+                    "description": "shall be laid  in the  National  Assembly within  six months after the end of each financial year.    LAWS OF GUYANA 16 Cap. 73:03 Investment         Role of Go- Invest. c. 19:05       The Investment Promotion Council.                                 PART IV ADMINISTRATIVE STRUCTURES AND PROCEDURES"
+                },
+                {
+                    "representation": "(2)",
+                    "description": "The report of the audit carried out pursuant to subsection"
+                }
+            ]
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "39",
+            "title": "Role of Go-Invest. ",
+            "context": "INVESTMENT ACT under Role of Go-Invest. 39. The Guyana Office for Investment (Go-Invest), established under the Public Corporations Act, shall be the corporation responsible for facilitating and promoting investment in Guyana. Go-Invest shall provide investors with all forms necessary to apply for incentives and assist investors in completing forms accurately.",
+            "description": "The Guyana Office for Investment (Go-Invest), established under the Public Corporations Act, shall be the corporation responsible for facilitating and promoting investment in Guyana. Go-Invest shall provide investors with all forms necessary to apply for incentives and assist investors in completing forms accurately."
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "40",
+            "title": "The Investment Promotion Council. ",
+            "context": "INVESTMENT ACT under The Investment Promotion Council. 40.",
+            "description": "40."
+        }
+    },
+    {
+        "act": "INVESTMENT ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "41",
+            "title": "Functions of the Council.  _________________________           LAWS OF GUYANA Investment Cap. 73:03 5  L.R.O. 1/2012 CHAPTER 73:03  INVESTMENT ACT  1 of 2004 An Act to provide for the rendering into law of the principles and practices that inform our present approach to investment.  WHEREAS article 16 of the Constitution mandates that the State shall foster development of such relevant forms of co- operation   and   of   business   entitles   as   are   seen   to   be supportive  of  the  goals  of  economic development as stated in articles 14 and 15 of the Constitution;  AND WHEREAS the Government acknowledges the benefits to be derived for Guyana and its people by establishing by law a favourable regime of incentives for investors in Guyana.   Short title   Interpretation.                 ",
+            "context": "INVESTMENT ACT under Functions of the Council.  _________________________           LAWS OF GUYANA Investment Cap. 73:03 5  L.R.O. 1/2012 CHAPTER 73:03  INVESTMENT ACT  1 of 2004 An Act to provide for the rendering into law of the principles and practices that inform our present approach to investment.  WHEREAS article 16 of the Constitution mandates that the State shall foster development of such relevant forms of co- operation   and   of   business   entitles   as   are   seen   to   be supportive  of  the  goals  of  economic development as stated in articles 14 and 15 of the Constitution;  AND WHEREAS the Government acknowledges the benefits to be derived for Guyana and its people by establishing by law a favourable regime of incentives for investors in Guyana.   Short title   Interpretation.                 41. The council shall  (a)  as circumstances require, but at LAWS OF GUYANA 18 Cap. 73:03 Investment                    least once annually,  review  and  recommend  to  the Government alterations to the Priority Lists as specified in section",
+            "description": [
+                {
+                    "representation": "(a)",
+                    "description": "as circumstances require, but at LAWS OF GUYANA 18 Cap. 73:03 Investment                    least once annually,  review  and  recommend  to  the Government alterations to the Priority Lists as specified in section"
+                }
+            ]
+        }
+    }
+]

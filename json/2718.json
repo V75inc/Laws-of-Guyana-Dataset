@@ -1,0 +1,45 @@
+[
+    {
+        "act": "LEADER OF THE OPPOSITION (BENEFITS AND OTHER  FACILITIES) ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "1",
+            "title": "Short title. ",
+            "context": "LEADER OF THE OPPOSITION (BENEFITS AND OTHER  FACILITIES) ACT under Short title. 1. This Act may be cited as the Leader of the Opposition (Benefits and Other Facilities) Act.",
+            "description": "This Act may be cited as the Leader of the Opposition (Benefits and Other Facilities) Act."
+        }
+    },
+    {
+        "act": "LEADER OF THE OPPOSITION (BENEFITS AND OTHER  FACILITIES) ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "2",
+            "title": "Benefits and certain other facilities to the Leader of the Opposition. ",
+            "context": "LEADER OF THE OPPOSITION (BENEFITS AND OTHER  FACILITIES) ACT under Benefits and certain other facilities to the Leader of the Opposition. 2. The Leader of the Opposition shall be entitled at Government expense to the following  (a)  a rent free furnished office accommodation;  (b)  medical attention including medical treatment or reimbursement of medical expenses incurred by him for himself and the dependant members of his family;  (c)  full-time security service at his official place of residence and at the office of the Leader of the Opposition to be LAWS OF GUYANA 4 Cap. 27:18 Leader of the Opposition (Benefits and other Facilities)   L.R.O. 1/2012                    Regulations.  provided by the Guyana Police Force;  (d)  the services of a research assistant, an executive assistant/secretary, a clerical/office assistant, a chauffeur, a personal security officer, a gardener and two domestic servants;  (e)  salary, vacation allowance and parliamentary benefits equivalent to those of a Cabinet Minister.",
+            "description": [
+                {
+                    "representation": "(a)",
+                    "description": "a rent free furnished office accommodation;"
+                },
+                {
+                    "representation": "(b)",
+                    "description": "medical attention including medical treatment or reimbursement of medical expenses incurred by him for himself and the dependant members of his family;"
+                },
+                {
+                    "representation": "(c)",
+                    "description": "full-time security service at his official place of residence and at the office of the Leader of the Opposition to be LAWS OF GUYANA 4 Cap. 27:18 Leader of the Opposition"
+                },
+                {
+                    "representation": "(d)",
+                    "description": "the services of a research assistant, an executive assistant/secretary, a clerical/office assistant, a chauffeur, a personal security officer, a gardener and two domestic servants;"
+                },
+                {
+                    "representation": "(e)",
+                    "description": "salary, vacation allowance and parliamentary benefits equivalent to those of a Cabinet Minister."
+                }
+            ]
+        }
+    }
+]

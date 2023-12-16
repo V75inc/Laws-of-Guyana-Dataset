@@ -1,0 +1,24 @@
+[
+    {
+        "act": "STATUS OF ALIENS ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "1",
+            "title": "Short title. ",
+            "context": "STATUS OF ALIENS ACT under Short title. 1. This Act may be cited as the Status of Aliens Act.",
+            "description": "This Act may be cited as the Status of Aliens Act."
+        }
+    },
+    {
+        "act": "STATUS OF ALIENS ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "2",
+            "title": "Interpretation. ",
+            "context": "STATUS OF ALIENS ACT under Interpretation. 2. In this Act, alien has the meaning assigned to it by article 232 of the Constitution.",
+            "description": "In this Act, alien has the meaning assigned to it by article 232 of the Constitution."
+        }
+    }
+]

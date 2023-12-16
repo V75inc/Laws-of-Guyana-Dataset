@@ -1,0 +1,48 @@
+[
+    {
+        "act": "PENSIONS (PRESIDENT) ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "2",
+            "title": "Pension of the President. ",
+            "context": "PENSIONS (PRESIDENT) ACT under Pension of the President. 2.  The Presidents Pension shall be seven- eighths of the annual salary of the President in office and shall continue as seven-eighths of such annual salary of each of his successors.",
+            "description": "The Presidents Pension shall be seven- eighths of the annual salary of the President in office and shall continue as seven-eighths of such annual salary of each of his successors."
+        }
+    },
+    {
+        "act": "PENSIONS (PRESIDENT) ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "3",
+            "title": "President's widow's pension. ",
+            "context": "PENSIONS (PRESIDENT) ACT under President's widow's pension. 3.  Where a person dies while he is President or while he is to receive the President's pension and he leaves a widow, the widow shall be paid a pension at an annual rate equivalent to one half of the President's pension.",
+            "description": "Where a person dies while he is President or while he is to receive the President's pension and he leaves a widow, the widow shall be paid a pension at an annual rate equivalent to one half of the President's pension."
+        }
+    },
+    {
+        "act": "PENSIONS (PRESIDENT) ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "4",
+            "title": "President's children's allowance. ",
+            "context": "PENSIONS (PRESIDENT) ACT under President's children's allowance. 4.  (1)  Where a person dies while he is President or LAWS OF GUYANA 4 Cap. 27:13 Pensions (President)  L.R.O. 1/2012 children allowance.                          Gratuity where the President dies leaving no widow or entitled child. while he is entitled to receive the President's pension leaving entitled children, each of such children shall be paid, until he dies or ceases to be an entitled child, such allowance at such rate as the President shall determine; so however that   (a) where there is one entitled child, the annual rate of allowances payable shall not exceed one-sixth of the annual rate of pension specified in section 2; or  (b) where there is more than one entitled child, the aggregate rate of allowance payable shall not exceed one-third of the annual rate of pension specified in section",
+            "description": [
+                {
+                    "representation": "(1)",
+                    "description": "Where a person dies while he is President or LAWS OF GUYANA 4 Cap. 27:13 Pensions"
+                },
+                {
+                    "representation": "(a)",
+                    "description": "where there is one entitled child, the annual rate of allowances payable shall not exceed one-sixth of the annual rate of pension specified in section 2; or"
+                },
+                {
+                    "representation": "(b)",
+                    "description": "where there is more than one entitled child, the aggregate rate of allowance payable shall not exceed one-third of the annual rate of pension specified in section"
+                }
+            ]
+        }
+    }
+]

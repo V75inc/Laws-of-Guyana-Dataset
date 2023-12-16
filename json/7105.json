@@ -1,0 +1,48 @@
+[
+    {
+        "act": "DOGS ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "1",
+            "title": "Short title. ",
+            "context": "DOGS ACT under Short title. 1.  This Act may be cited as the Dogs Act.",
+            "description": "This Act may be cited as the Dogs Act."
+        }
+    },
+    {
+        "act": "DOGS ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "2",
+            "title": "Interpretation. ",
+            "context": "DOGS ACT under Interpretation. 2.  In this Act  cattle includes horses, mules, asses, sheep, goats and swine;   poultry means domestic fowls, turkeys, ducks or guinea-fowls.",
+            "description": "In this Act  cattle includes horses, mules, asses, sheep, goats and swine;   poultry means domestic fowls, turkeys, ducks or guinea-fowls."
+        }
+    },
+    {
+        "act": "DOGS ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "3",
+            "title": "Liability of owner of dog for injury to any person, cattle or poultry. ",
+            "context": "DOGS ACT under Liability of owner of dog for injury to any person, cattle or poultry. 3. (1) In any proceedings for damages against the owner of a dog for injury done to any person, cattle or poultry by that dog, it shall not be necessary for the person seeking such damages to show a previous mischievous propensity in the dog, or the owners knowledge of such previous propensity. LAWS OF GUYANA 4 Cap. 71:05 Dogs  L.R.O. 1/2012                         Dangerous dogs may be destroyed. [6 of 1997]   (2) Where any such injury has been done by a dog, the occupier of any house or premises where the dog was kept or permitted to live or remain at the time of the injury shall be presumed to be the owner of the dog, and shall be liable for the injury unless he proves that he was not the owner of the dog at that time:  Provided that where there are more occupiers than one in any house or premises let in separate apartments or lodgings, or otherwise, the occupier of that particular part of the house or premises in which the dog has been kept or permitted to live or remain at the time of the injury shall be presumed to be the owner of the dog, unless he proves that he was not the owner of the dog at that time.  (3) Where any dog is proved to have injured any person, cattle or poultry, it shall be deemed to be a dangerous dog.",
+            "description": [
+                {
+                    "representation": "(1)",
+                    "description": "In any proceedings for damages against the owner of a dog for injury done to any person, cattle or poultry by that dog, it shall not be necessary for the person seeking such damages to show a previous mischievous propensity in the dog, or the owners knowledge of such previous propensity. LAWS OF GUYANA 4 Cap. 71:05 Dogs  L.R.O. 1/2012                         Dangerous dogs may be destroyed. [6 of 1997]"
+                },
+                {
+                    "representation": "(2)",
+                    "description": "Where any such injury has been done by a dog, the occupier of any house or premises where the dog was kept or permitted to live or remain at the time of the injury shall be presumed to be the owner of the dog, and shall be liable for the injury unless he proves that he was not the owner of the dog at that time:  Provided that where there are more occupiers than one in any house or premises let in separate apartments or lodgings, or otherwise, the occupier of that particular part of the house or premises in which the dog has been kept or permitted to live or remain at the time of the injury shall be presumed to be the owner of the dog, unless he proves that he was not the owner of the dog at that time."
+                },
+                {
+                    "representation": "(3)",
+                    "description": "Where any dog is proved to have injured any person, cattle or poultry, it shall be deemed to be a dangerous dog."
+                }
+            ]
+        }
+    }
+]

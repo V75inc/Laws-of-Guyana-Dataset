@@ -1,0 +1,452 @@
+[
+    {
+        "act": "AGRICULTURAL LOANS ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "1",
+            "title": "Short title. ",
+            "context": "AGRICULTURAL LOANS ACT under Short title. 1.  This Act may be cited as the Agricultural Loans Act.",
+            "description": "This Act may be cited as the Agricultural Loans Act."
+        }
+    },
+    {
+        "act": "AGRICULTURAL LOANS ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "2",
+            "title": "Interpretation. ",
+            "context": "AGRICULTURAL LOANS ACT under Interpretation. 2.  (1) In this Act  crop means sugar cane, or any other crop approved by the Minister pursuant to section 4;  farmer means any person who as a proprietor or tenant is bona fide cultivating or about to cultivate an agricultural holding with a crop;  lender means a person approved by the Minister pursuant to section 3;  lien means a lien created pursuant to this Act;   loan means a loan advanced pursuant to this Act;  Loan Book means The Agricultural Loans Book required to be kept in the Registry under this Act;  loan certificate means the certificate which a farmer is required to give under this Act as security for a loan;  loan notice means the notice of intention to record a loan LAWS OF GUYANA Agricultural Loans Cap. 68:06 5  L.R.O. 1/2012          c. 5:02                                       certificate which is required to be given under this Act;   machinery  means  agricultural  vehicles,  plant,  machinery  and agricultural tenants fixtures or other agricultural fixtures which a tenant is by law authorised to remove;  registered land means any land registered under the Land Registry Act;  Registrar means the Registrar of Deeds and includes any sworn clerk in the deeds registry;  Registry means the deeds registry;  rules of good husbandry means so far as practicable, having regard to the character and position of the land  (a)  the maintenance of the land, parapets, bed-heads and foot of beds, and meres thereon clean and free from bush and other obstacles;  (b)  the abstention from throwing grass or other obstacles into the trenches abutting the land;  (c)  such rules as are generally recognised to be necessary for good husbandry;  sale contract means a contract for the sale or processing of a crop;   stock includes cane tops, seeds, seedlings, planting material and fertilisers.                   (2)  Where the context so admits reference in this Act to     (a) lender shall be construed as reference to a lender in whose favour a lien is created or to a person to whom a loan certificate  has  been  transferred  or  LAWS OF GUYANA 6 Cap. 68:06 Agricultural Loans  L.R.O. 1/2012               Approved lenders.          Approved crop.    Loan Book.               Application for loan.    who  is  the  manager, attorney, agent, representative, guardian or legal personal representative of that lender;  (b)  farmer shall be construed as reference to a farmer who has created a lien or to any person who has joined with a farmer in creating a lien or who is manager, attorney, agent, representative, guardian or legal personal representative of that farmer.",
+            "description": [
+                {
+                    "representation": "(1)",
+                    "description": "In this Act  crop means sugar cane, or any other crop approved by the Minister pursuant to section 4;  farmer means any person who as a proprietor or tenant is bona fide cultivating or about to cultivate an agricultural holding with a crop;  lender means a person approved by the Minister pursuant to section 3;  lien means a lien created pursuant to this Act;   loan means a loan advanced pursuant to this Act;  Loan Book means The Agricultural Loans Book required to be kept in the Registry under this Act;  loan certificate means the certificate which a farmer is required to give under this Act as security for a loan;  loan notice means the notice of intention to record a loan LAWS OF GUYANA Agricultural Loans Cap. 68:06 5  L.R.O. 1/2012          c. 5:02                                       certificate which is required to be given under this Act;   machinery  means  agricultural  vehicles,  plant,  machinery  and agricultural tenants fixtures or other agricultural fixtures which a tenant is by law authorised to remove;  registered land means any land registered under the Land Registry Act;  Registrar means the Registrar of Deeds and includes any sworn clerk in the deeds registry;  Registry means the deeds registry;  rules of good husbandry means so far as practicable, having regard to the character and position of the land"
+                },
+                {
+                    "representation": "(a)",
+                    "description": "lender shall be construed as reference to a lender in whose favour a lien is created or to a person to whom a loan certificate  has  been  transferred  or  LAWS OF GUYANA 6 Cap. 68:06 Agricultural Loans  L.R.O. 1/2012               Approved lenders.          Approved crop.    Loan Book.               Application for loan.    who  is  the  manager, attorney, agent, representative, guardian or legal personal representative of that lender;"
+                },
+                {
+                    "representation": "(b)",
+                    "description": "farmer shall be construed as reference to a farmer who has created a lien or to any person who has joined with a farmer in creating a lien or who is manager, attorney, agent, representative, guardian or legal personal representative of that farmer."
+                },
+                {
+                    "representation": "(c)",
+                    "description": "such rules as are generally recognised to be necessary for good husbandry;  sale contract means a contract for the sale or processing of a crop;   stock includes cane tops, seeds, seedlings, planting material and fertilisers."
+                },
+                {
+                    "representation": "(2)",
+                    "description": "Where the context so admits reference in this Act to"
+                }
+            ]
+        }
+    },
+    {
+        "act": "AGRICULTURAL LOANS ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "3",
+            "title": "Approved lenders. ",
+            "context": "AGRICULTURAL LOANS ACT under Approved lenders. 3.  (1) The Minister may approve any person as a lender for the purpose of making advances in accordance with this Act to a farmer.  (2) The Minister may, from time to time, if he thinks fit, revoke the approval given to any person to be a lender, but without prejudice to any loan certificate registered prior to such revocation.",
+            "description": [
+                {
+                    "representation": "(1)",
+                    "description": "The Minister may approve any person as a lender for the purpose of making advances in accordance with this Act to a farmer."
+                },
+                {
+                    "representation": "(2)",
+                    "description": "The Minister may, from time to time, if he thinks fit, revoke the approval given to any person to be a lender, but without prejudice to any loan certificate registered prior to such revocation."
+                }
+            ]
+        }
+    },
+    {
+        "act": "AGRICULTURAL LOANS ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "4",
+            "title": "Approved crop. ",
+            "context": "AGRICULTURAL LOANS ACT under Approved crop. 4. The Minister may approve any crop for the purpose of this Act.",
+            "description": "The Minister may approve any crop for the purpose of this Act."
+        }
+    },
+    {
+        "act": "AGRICULTURAL LOANS ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "5",
+            "title": "Loan Book. ",
+            "context": "AGRICULTURAL LOANS ACT under Loan Book. 5. (1) The Registrar shall keep in the Registry an Agricultural Loans Book in such form as the Minister may prescribe.  (2) The Registrar shall keep an index to the Loan Book and shall index each loan certificate under the initial letter of the name (if any) of the land and also under the initial letter of the name of the farmer.  (3) The Loan Book shall be open to inspection by any person desiring to see it on payment of the prescribed fee.",
+            "description": [
+                {
+                    "representation": "(1)",
+                    "description": "The Registrar shall keep in the Registry an Agricultural Loans Book in such form as the Minister may prescribe."
+                },
+                {
+                    "representation": "(2)",
+                    "description": "The Registrar shall keep an index to the Loan Book and shall index each loan certificate under the initial letter of the name"
+                },
+                {
+                    "representation": "(3)",
+                    "description": "The Loan Book shall be open to inspection by any person desiring to see it on payment of the prescribed fee."
+                }
+            ]
+        }
+    },
+    {
+        "act": "AGRICULTURAL LOANS ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "6",
+            "title": "Application for loan. ",
+            "context": "AGRICULTURAL LOANS ACT under Application for loan. 6. (1) Upon a farmer applying to a lender for a loan the lender may, subject to any regulations made by the Minister under section 21, make it a condition to the grant of any loan that the farmer enters into a sale contract in a form LAWS OF GUYANA Agricultural Loans Cap. 68:06 7  L.R.O. 1/2012                Execution and form of loan certificate.    First Schedule Form",
+            "description": [
+                {
+                    "representation": "(1)",
+                    "description": "Upon a farmer applying to a lender for a loan the lender may, subject to any regulations made by the Minister under section 21, make it a condition to the grant of any loan that the farmer enters into a sale contract in a form LAWS OF GUYANA Agricultural Loans Cap. 68:06 7  L.R.O. 1/2012                Execution and form of loan certificate.    First Schedule Form"
+                }
+            ]
+        }
+    },
+    {
+        "act": "AGRICULTURAL LOANS ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "7",
+            "title": "Execution and form of loan certificate. ",
+            "context": "AGRICULTURAL LOANS ACT under Execution and form of loan certificate. 7.  (1) As security for the repayment by a farmer of any loan together with interest thereon and any costs, expenses and other sums incurred in the protection of such security or in relation thereto with interest thereon, the farmer shall execute in duplicate a loan certificate in Form 1 set out in the First Schedule. The loan certificate shall also be signed by the lender. (2) Subject to any contrary intention therein appearing there shall be implied in every loan certificate the covenants on the part of the farmer set out in Part I of the Second Schedule and the conditions set out in Part II of that Schedule. (3) There may be included in the loan certificate such terms and conditions as the parties think fit. (4) The terms and conditions of any loan may be varied by the recording of a memorandum of variation executed by the parties thereto but no such variation shall affect the rights of the holder of any mortgage or charge made prior to such variation unless the holder has consented thereto in writing on the memorandum.",
+            "description": [
+                {
+                    "representation": "(1)",
+                    "description": "As security for the repayment by a farmer of any loan together with interest thereon and any costs, expenses and other sums incurred in the protection of such security or in relation thereto with interest thereon, the farmer shall execute in duplicate a loan certificate in Form 1 set out in the First Schedule. The loan certificate shall also be signed by the lender."
+                },
+                {
+                    "representation": "(2)",
+                    "description": "Subject to any contrary intention therein appearing there shall be implied in every loan certificate the covenants on the part of the farmer set out in Part I of the Second Schedule and the conditions set out in Part II of that Schedule."
+                },
+                {
+                    "representation": "(3)",
+                    "description": "There may be included in the loan certificate such terms and conditions as the parties think fit."
+                },
+                {
+                    "representation": "(4)",
+                    "description": "The terms and conditions of any loan may be varied by the recording of a memorandum of variation executed by the parties thereto but no such variation shall affect the rights of the holder of any mortgage or charge made prior to such variation unless the holder has consented thereto in writing on the memorandum."
+                }
+            ]
+        }
+    },
+    {
+        "act": "AGRICULTURAL LOANS ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "8",
+            "title": "Presentation of loan certificate and publication of loan notice. ",
+            "context": "AGRICULTURAL LOANS ACT under Presentation of loan certificate and publication of loan notice. 8.  (1) The loan certificate in duplicate shall be presented by the farmer for recording in the Registry. There shall be lodged at the same time a loan notice in Form 2 in the LAWS OF GUYANA 8 Cap. 68:06 Agricultural Loans  L.R.O. 1/2012 First Schedule Form",
+            "description": [
+                {
+                    "representation": "(1)",
+                    "description": "The loan certificate in duplicate shall be presented by the farmer for recording in the Registry. There shall be lodged at the same time a loan notice in Form 2 in the LAWS OF GUYANA 8 Cap. 68:06 Agricultural Loans  L.R.O. 1/2012 First Schedule Form"
+                }
+            ]
+        }
+    },
+    {
+        "act": "AGRICULTURAL LOANS ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "9",
+            "title": "Recording of loan certificate. ",
+            "context": "AGRICULTURAL LOANS ACT under Recording of loan certificate. 9.  (1) The Registrar shall on the expiration of fourteen days after the date of publication of the loan notice  (a)   record the loan certificate by entering particulars of it in the Loan Book;  (b)    register the lien on the document of title to the land described in the loan certificate and in the case of State lands send a copy of the loan certificate to the Commissioner of Lands, and in the case of registered land file a copy of the loan certificate in the land registry; and  (c)     if the farmer is a joint stock company, file a copy of the loan certificate in the office of the Registrar of Companies, and if the  farmer is a co-operative society, send a copy thereof to the LAWS OF GUYANA Agricultural Loans Cap. 68:06 9  L.R.O. 1/2012      First Schedule. Form",
+            "description": [
+                {
+                    "representation": "(1)",
+                    "description": "The Registrar shall on the expiration of fourteen days after the date of publication of the loan notice"
+                },
+                {
+                    "representation": "(a)",
+                    "description": "record the loan certificate by entering particulars of it in the Loan Book;"
+                },
+                {
+                    "representation": "(b)",
+                    "description": "register the lien on the document of title to the land described in the loan certificate and in the case of State lands send a copy of the loan certificate to the Commissioner of Lands, and in the case of registered land file a copy of the loan certificate in the land registry; and"
+                },
+                {
+                    "representation": "(c)",
+                    "description": "if the farmer is a joint stock company, file a copy of the loan certificate in the office of the Registrar of Companies, and if the  farmer is a co-operative society, send a copy thereof to the LAWS OF GUYANA Agricultural Loans Cap. 68:06 9  L.R.O. 1/2012      First Schedule. Form"
+                }
+            ]
+        }
+    },
+    {
+        "act": "AGRICULTURAL LOANS ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "10",
+            "title": "Creation of liens. ",
+            "context": "AGRICULTURAL LOANS ACT under Creation of liens. 10.  (1) Subject to any exclusion therein specified a loan certificate shall, in respect of any loan to a farmer on the security of that loan certificate together with interest thereon and any costs, expenses and other sums incurred in the protection of such security or relating thereto with interest thereon, confer on the lender named therein a lien over   (a)  the farmers interest in the land described in the loan certificate together with any building thereon and any crop at any time growing thereon and together with any right of way for the purpose of access to and egress from such land over any neighbouring land belonging to the farmer and over and along any roads, LAWS OF GUYANA 10 Cap. 68:06 Agricultural Loans  L.R.O. 1/2012                                 c. 5:01      c. 5:02            tracks, paths, dams and canals which the farmer is entitled to use (all of which land, buildings, crops, and rights  are   hereinafter   referred  to  as  the  immovable property);  (b)   any stock and machinery belonging to the farmer or such part thereof as is mentioned in the loan certificate and any such crop as aforesaid which has been severed from the land;   (c)    all the farmers rights under any sale contract described in the loan certificate.  (2) Subject to this Act, a loan certificate shall, as from the date on which the lien conferred by that loan certificate takes effect  (a)    have the like effect in relation to the farmers interest in the immovable property and any other property or interest therein comprised as if it were a mortgage passed under the Deeds Registry Act or in the case of registered land as if it were a mortgage created in accordance with the provisions of the Land Registry Act;  (b)     have the like effect in relation to any crop severed from the land and any stock and machinery therein comprised as if it were a mortgage bill of sale thereof granted by the farmer to the lender;  (c)    have the like effect in relation to any LAWS OF GUYANA Agricultural Loans Cap. 68:06 11  L.R.O. 1/2012         Priority of liens.                                Application of loan. [6 of 1997]      sale contract therein specified as if it were a mortgage thereof in favour of the lender such mortgage being by way of an assignment to the lender of the farmers rights under the contract.",
+            "description": [
+                {
+                    "representation": "(1)",
+                    "description": "Subject to any exclusion therein specified a loan certificate shall, in respect of any loan to a farmer on the security of that loan certificate together with interest thereon and any costs, expenses and other sums incurred in the protection of such security or relating thereto with interest thereon, confer on the lender named therein a lien over"
+                },
+                {
+                    "representation": "(a)",
+                    "description": "have the like effect in relation to the farmers interest in the immovable property and any other property or interest therein comprised as if it were a mortgage passed under the Deeds Registry Act or in the case of registered land as if it were a mortgage created in accordance with the provisions of the Land Registry Act;"
+                },
+                {
+                    "representation": "(b)",
+                    "description": "have the like effect in relation to any crop severed from the land and any stock and machinery therein comprised as if it were a mortgage bill of sale thereof granted by the farmer to the lender;"
+                },
+                {
+                    "representation": "(c)",
+                    "description": "have the like effect in relation to any LAWS OF GUYANA Agricultural Loans Cap. 68:06 11  L.R.O. 1/2012         Priority of liens.                                Application of loan. [6 of 1997]      sale contract therein specified as if it were a mortgage thereof in favour of the lender such mortgage being by way of an assignment to the lender of the farmers rights under the contract."
+                },
+                {
+                    "representation": "(2)",
+                    "description": "Subject to this Act, a loan certificate shall, as from the date on which the lien conferred by that loan certificate takes effect"
+                }
+            ]
+        }
+    },
+    {
+        "act": "AGRICULTURAL LOANS ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "11",
+            "title": "Priority of liens. ",
+            "context": "AGRICULTURAL LOANS ACT under Priority of liens. 11.  (1) Except as hereinafter provided, a lien shall, notwithstanding any other law for the time being in force, rank in priority to all other debts, liabilities and obligations of the farmer whether incurred or contracted before or after the creation of the lien.   (2) A lien shall not be security for principal moneys at any one time outstanding (exclusive of interest and costs, expenses and other sums incurred in protection of the security or relating thereto) in excess of the amount stated in the loan certificate as the sum not to be exceeded at any one time, and a lien shall not be deemed to be discharged by reason only that the principal moneys owing at any one time on loan or current account under the loan certificate have been paid in full or that the current account has ceased to be in debit.  (3) A lien shall not rank in priority to any statutory claim in respect of the immovable property of the farmer or any loan due to any creditor which has been made in good faith before the date on which notice of the lien is deemed to constitute actual notice and which has been secured by a mortgage or charge registered before such date in favour of a person who is entitled as a bona fide creditor to the repayment thereof.",
+            "description": [
+                {
+                    "representation": "(1)",
+                    "description": "Except as hereinafter provided, a lien shall, notwithstanding any other law for the time being in force, rank in priority to all other debts, liabilities and obligations of the farmer whether incurred or contracted before or after the creation of the lien."
+                },
+                {
+                    "representation": "(2)",
+                    "description": "A lien shall not be security for principal moneys at any one time outstanding"
+                },
+                {
+                    "representation": "(3)",
+                    "description": "A lien shall not rank in priority to any statutory claim in respect of the immovable property of the farmer or any loan due to any creditor which has been made in good faith before the date on which notice of the lien is deemed to constitute actual notice and which has been secured by a mortgage or charge registered before such date in favour of a person who is entitled as a bona fide creditor to the repayment thereof."
+                }
+            ]
+        }
+    },
+    {
+        "act": "AGRICULTURAL LOANS ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "12",
+            "title": "Application of loan. ",
+            "context": "AGRICULTURAL LOANS ACT under Application of loan. 12. (1) No loan made by a lender to a farmer in accordance with this Act shall be applied by that farmer otherwise than towards the cost of planting or reaping a crop or towards improving land for the purpose of growing any crop thereon.  (2) It shall not be incumbent on a lender to see to LAWS OF GUYANA 12 Cap. 68:06 Agricultural Loans  L.R.O. 1/2012                        Right of lender to  inspect land. [6 of 1997]           Penalty for disposal of crops  contrary to contract. [6 of 1997]      Entry by  lender if  farmer is not keeping up the due application of any moneys advanced to a farmer, and the misapplication or non-application of such moneys shall not affect the lenders security therefor.  (3) Any farmer who applies any loan towards any purpose which is not authorised by this Act or who fails or neglects to apply it in accordance with such provisions shall be liable on summary conviction to a fine of thirty-two thousand five hundred dollars and to imprisonment for twelve months.  (4) If any person falsely represents to a lender that he is a farmer and such lender is not aware of the falsity of the representation, no loan certificate granted by that person to such lender and no sale contract mentioned therein shall be invalidated merely by reason of the fact that that person is not a farmer.",
+            "description": [
+                {
+                    "representation": "(1)",
+                    "description": "No loan made by a lender to a farmer in accordance with this Act shall be applied by that farmer otherwise than towards the cost of planting or reaping a crop or towards improving land for the purpose of growing any crop thereon."
+                },
+                {
+                    "representation": "(2)",
+                    "description": "It shall not be incumbent on a lender to see to LAWS OF GUYANA 12 Cap. 68:06 Agricultural Loans  L.R.O. 1/2012                        Right of lender to  inspect land. [6 of 1997]           Penalty for disposal of crops  contrary to contract. [6 of 1997]      Entry by  lender if  farmer is not keeping up the due application of any moneys advanced to a farmer, and the misapplication or non-application of such moneys shall not affect the lenders security therefor."
+                },
+                {
+                    "representation": "(3)",
+                    "description": "Any farmer who applies any loan towards any purpose which is not authorised by this Act or who fails or neglects to apply it in accordance with such provisions shall be liable on summary conviction to a fine of thirty-two thousand five hundred dollars and to imprisonment for twelve months."
+                },
+                {
+                    "representation": "(4)",
+                    "description": "If any person falsely represents to a lender that he is a farmer and such lender is not aware of the falsity of the representation, no loan certificate granted by that person to such lender and no sale contract mentioned therein shall be invalidated merely by reason of the fact that that person is not a farmer."
+                }
+            ]
+        }
+    },
+    {
+        "act": "AGRICULTURAL LOANS ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "13",
+            "title": "Right of lender to inspect land. ",
+            "context": "AGRICULTURAL LOANS ACT under Right of lender to inspect land. 13. (1) A lender may, from time to time at his discretion, enter at all reasonable times on any land over which he has a lien and inspect the same.  (2) Any farmer or other person obstructing in any way a lender in making the inspection referred to in the preceding subsection shall be liable on summary conviction to a fine of six thousand five hundred dollars.",
+            "description": [
+                {
+                    "representation": "(1)",
+                    "description": "A lender may, from time to time at his discretion, enter at all reasonable times on any land over which he has a lien and inspect the same."
+                },
+                {
+                    "representation": "(2)",
+                    "description": "Any farmer or other person obstructing in any way a lender in making the inspection referred to in the preceding subsection shall be liable on summary conviction to a fine of six thousand five hundred dollars."
+                }
+            ]
+        }
+    },
+    {
+        "act": "AGRICULTURAL LOANS ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "14",
+            "title": "Penalty for disposal of crops contrary to contract. ",
+            "context": "AGRICULTURAL LOANS ACT under Penalty for disposal of crops contrary to contract. 14.  If a farmer disposes of any part of a crop referred to in any sale contract specified in a loan certificate signed by him, or if he applies any part of the proceeds of sale of any such crop otherwise than in accordance with that contract, he shall be liable on summary conviction to a fine of sixteen thousand two hundred and fifty dollars and to imprisonment for six months.",
+            "description": "If a farmer disposes of any part of a crop referred to in any sale contract specified in a loan certificate signed by him, or if he applies any part of the proceeds of sale of any such crop otherwise than in accordance with that contract, he shall be liable on summary conviction to a fine of sixteen thousand two hundred and fifty dollars and to imprisonment for six months."
+        }
+    },
+    {
+        "act": "AGRICULTURAL LOANS ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "15",
+            "title": "Entry by lender if farmer is not keeping up cultivation. ",
+            "context": "AGRICULTURAL LOANS ACT under Entry by lender if farmer is not keeping up cultivation. 15. (l)  If a lender has reasonable grounds for believing that a farmer has ceased or is neglecting to cultivate a crop in respect of which the lender holds a lien, the lender may, after obtaining the written consent of the Chief Agricultural Officer LAWS OF GUYANA Agricultural Loans Cap. 68:06 13  L.R.O. 1/2012 cultivation.  [6 of 1997]                 Record of repayment of loans. First Schedule. Form",
+            "description": [
+                {
+                    "representation": "(l)",
+                    "description": "If a lender has reasonable grounds for believing that a farmer has ceased or is neglecting to cultivate a crop in respect of which the lender holds a lien, the lender may, after obtaining the written consent of the Chief Agricultural Officer LAWS OF GUYANA Agricultural Loans Cap. 68:06 13  L.R.O. 1/2012 cultivation.  [6 of 1997]                 Record of repayment of loans. First Schedule. Form"
+                }
+            ]
+        }
+    },
+    {
+        "act": "AGRICULTURAL LOANS ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "16",
+            "title": "Record of repayment of loans. ",
+            "context": "AGRICULTURAL LOANS ACT under Record of repayment of loans. 16.  (l)  Unless a lender has agreed to advance further moneys to a farmer upon the security of a loan certificate in the possession of the lender, the lender shall, upon repayment of the loan deliver the loan certificate to the person making payment after having endorsed on the loan certificate a receipt in Form 4 in the First Schedule.  (2) On  production  to  the  Registrar  of  the  part  of the  loan certificate delivered under subsection (l), the Registrar shall enter the particulars thereof in the Loan Book and file particulars thereof with the Commissioner of Lands and in the deeds registry, land registry and the office of the Registrar of Companies, as the case may require.  (3) Such entry in the Loan Book shall operate as a discharge of the lien created by the loan certificate.",
+            "description": [
+                {
+                    "representation": "(l)",
+                    "description": "Unless a lender has agreed to advance further moneys to a farmer upon the security of a loan certificate in the possession of the lender, the lender shall, upon repayment of the loan deliver the loan certificate to the person making payment after having endorsed on the loan certificate a receipt in Form 4 in the First Schedule."
+                },
+                {
+                    "representation": "(2)",
+                    "description": "On  production  to  the  Registrar  of  the  part  of the  loan certificate delivered under subsection"
+                },
+                {
+                    "representation": "(3)",
+                    "description": "Such entry in the Loan Book shall operate as a discharge of the lien created by the loan certificate."
+                }
+            ]
+        }
+    },
+    {
+        "act": "AGRICULTURAL LOANS ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "17",
+            "title": "Transfer of certificates of loan. ",
+            "context": "AGRICULTURAL LOANS ACT under Transfer of certificates of loan. 17.  Every loan certificate shall be transferable, and the transfer thereof shall be in Form 5 in the First Schedule; and on production of any transfer the Registrar shall enter the particulars thereof in the Loan Book and file a copy thereof with the Commissioner of Lands and in the deeds registry, land registry and the office of the Registrar of Companies and send a copy to the Chief Co-operative Officer as the case may require and shall endorse a note of the transfer on the loan LAWS OF GUYANA 14 Cap. 68:06 Agricultural Loans  L.R.O. 1/2012    Forms. First Schedule       Fees and exemption from duty.  Third Schedule.          Power of Registrar to make rules.           Power to make regulations.                certificate and the date on which it was recorded.",
+            "description": "Every loan certificate shall be transferable, and the transfer thereof shall be in Form 5 in the First Schedule; and on production of any transfer the Registrar shall enter the particulars thereof in the Loan Book and file a copy thereof with the Commissioner of Lands and in the deeds registry, land registry and the office of the Registrar of Companies and send a copy to the Chief Co-operative Officer as the case may require and shall endorse a note of the transfer on the loan LAWS OF GUYANA 14 Cap. 68:06 Agricultural Loans  L.R.O. 1/2012    Forms. First Schedule       Fees and exemption from duty.  Third Schedule.          Power of Registrar to make rules.           Power to make regulations.                certificate and the date on which it was recorded."
+        }
+    },
+    {
+        "act": "AGRICULTURAL LOANS ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "18",
+            "title": "Forms. ",
+            "context": "AGRICULTURAL LOANS ACT under Forms. 18.  (1) The forms in the First Schedule shall be used in all matters to which such forms relate.  (2) The Minister may from time to time by order amend or add to the forms in the First Schedule.",
+            "description": [
+                {
+                    "representation": "(1)",
+                    "description": "The forms in the First Schedule shall be used in all matters to which such forms relate."
+                },
+                {
+                    "representation": "(2)",
+                    "description": "The Minister may from time to time by order amend or add to the forms in the First Schedule."
+                }
+            ]
+        }
+    },
+    {
+        "act": "AGRICULTURAL LOANS ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "19",
+            "title": "Fees and exemption from duty. ",
+            "context": "AGRICULTURAL LOANS ACT under Fees and exemption from duty. 19.  (1) Subject to any order made under subsection (3) there shall be paid to the Registrar the fees set out in the Third Schedule in respect of the matters specified therein.  (2) Notwithstanding any law to the contrary, no stamp duty shall be payable on any loan certificate.  (3) The Minister may from time to time by order amend any of the fees set out in the Third Schedule.",
+            "description": [
+                {
+                    "representation": "(1)",
+                    "description": "Subject to any order made under subsection"
+                },
+                {
+                    "representation": "(3)",
+                    "description": "The Minister may from time to time by order amend any of the fees set out in the Third Schedule."
+                },
+                {
+                    "representation": "(2)",
+                    "description": "Notwithstanding any law to the contrary, no stamp duty shall be payable on any loan certificate."
+                }
+            ]
+        }
+    },
+    {
+        "act": "AGRICULTURAL LOANS ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "20",
+            "title": "Power of Registrar to make rules. ",
+            "context": "AGRICULTURAL LOANS ACT under Power of Registrar to make rules. 20.  The Registrar may, subject to the approval of the Minister, make rules to regulate the keeping of the Loan Book, the filing of documents or copies thereof in the land registry and the office of the Registrar of Companies, the removal or cancellation of entries in the Loan Book and the rectification thereof.",
+            "description": "The Registrar may, subject to the approval of the Minister, make rules to regulate the keeping of the Loan Book, the filing of documents or copies thereof in the land registry and the office of the Registrar of Companies, the removal or cancellation of entries in the Loan Book and the rectification thereof."
+        }
+    },
+    {
+        "act": "AGRICULTURAL LOANS ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "21",
+            "title": "Power to make regulations. ",
+            "context": "AGRICULTURAL LOANS ACT under Power to make regulations. 21. Subject to negative resolution of the National Assembly, the Minister may, by regulations, prescribe the general conditions which shall be deemed to be incorporated in every sale contract and the said conditions may in like manner be amended, altered or varied:  Provided that no amendment, alteration or variation of the said conditions shall be of any force or effect to the extent that it may prejudice any security given by a farmer to any person or the rights of any person under a sale contract made prior to and subsisting at the time of such amendment, alteration or variation unless that person has consented thereto in writing.  LAWS OF GUYANA Agricultural Loans Cap. 68:06 15  L.R.O. 1/2012 Application of other Acts or laws. [4 of 1972]       c. 90:12  c. 5:01  c. 89:01        c. 5:02",
+            "description": "Subject to negative resolution of the National Assembly, the Minister may, by regulations, prescribe the general conditions which shall be deemed to be incorporated in every sale contract and the said conditions may in like manner be amended, altered or varied:  Provided that no amendment, alteration or variation of the said conditions shall be of any force or effect to the extent that it may prejudice any security given by a farmer to any person or the rights of any person under a sale contract made prior to and subsisting at the time of such amendment, alteration or variation unless that person has consented thereto in writing.  LAWS OF GUYANA Agricultural Loans Cap. 68:06 15  L.R.O. 1/2012 Application of other Acts or laws. [4 of 1972]       c. 90:12  c. 5:01  c. 89:01        c. 5:02"
+        }
+    },
+    {
+        "act": "AGRICULTURAL LOANS ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "22",
+            "title": "Application of other Acts or laws.   FIRST SCHEDULE\u2014Forms. SECOND SCHEDULE\u2014Terms and conditions in Loan Certificates. THIRD  SCHEDULE\u2014Fees.  __________________________      LAWS OF GUYANA 4 Cap. 68:06 Agricultural Loans  L.R.O. 1/2012 CHAPTER 68:06  AGRICULTURAL LOANS ACT  14 of 1966A An Act to facilitate the raising of loans by farmers upon the security of their land or crop in order to enable them to finance  the  improvement  of  lands  and  the  cultivation  of crops,  and  for  matters  incidental  thereto  or  connected therewith.  [5th MARCH, 1966]  Short title.    Interpretation.                            ",
+            "context": "AGRICULTURAL LOANS ACT under Application of other Acts or laws.   FIRST SCHEDULEForms. SECOND SCHEDULETerms and conditions in Loan Certificates. THIRD  SCHEDULEFees.  __________________________      LAWS OF GUYANA 4 Cap. 68:06 Agricultural Loans  L.R.O. 1/2012 CHAPTER 68:06  AGRICULTURAL LOANS ACT  14 of 1966A An Act to facilitate the raising of loans by farmers upon the security of their land or crop in order to enable them to finance  the  improvement  of  lands  and  the  cultivation  of crops,  and  for  matters  incidental  thereto  or  connected therewith.  [5th MARCH, 1966]  Short title.    Interpretation.                            22.  (1) Except as otherwise provided in this Act, no provision in any Act or regulation, rule, law, practice or procedure, relating to property other than registered land shall apply to any property included in a loan certificate so far as it is inconsistent with this Act.  (2) Without prejudice to the generality of the last preceding subsection, no loan certificate shall be registrable under the Bills of Sale Act, and the provisions of the Deeds Registry Act relating to mortgages and of the Companies Act relating to the registration of mortgages or charges shall not apply to a loan certificate.  (3) The filing by the Registrar of copies of documents in the register of the land registry shall have the like effect as a registration of the equivalent document under the Land Registry Act and the filing of a loan notice under section 8 of this Act shall operate as a stay of registration until the loan certificate is recorded and a copy thereof is filed in that registry. The Registrar of Lands shall enter upon the register the appropriate memorials of any such document upon payment of the fee prescribed by this Act.  (4) The provisions of any Act or rule of court or practice relating to the enforcement of any mortgage or charge shall apply mutatis mutandis to the enforcement of a lien.  ___________           LAWS OF GUYANA 16 Cap. 68:06 Agricultural Loans  L.R.O. 1/2012 ss. 7, 8, 9, 16, 17,  s. 7(1)    FIRST SCHEDULE  FORMS FORM  1   THE  AGRICULTURAL LOANS  ACT LOAN CERTIFICATE  I/We   ....................................................................................... of..............................................................(herein  referred  to  as  the Farmer(s)) hereby declare that I/We (or one or more of us) am/are Farmer(s) within the meaning of the abovementioned Act of the land described below and I/We hereby  grant t o ............................of............................................... (herein referred to as the Lender) a lien over the land, the stock and machinery (if any) and sale contract (if any) described below together with the rights and crops specified in Section 10 of the abovementioned Act, such lien to be security for repayment to the Lender of the Principal moneys not exceeding at any one time the sum of $........................... to be advanced to me/us from time to time by the Lender (on loan or current account) on the recording of this certificate by the Registrar together with interest thereon payable at  the rate and in the manner hereinafter provided and together also with any costs, expenses or other sums incurred in the protection of such security or in relation thereto. (Here insert terms and conditions as to interest and repayment and any special terms or conditions and any modifications of the covenants and conditions implied by the Act.)   DESCRIPTION OF LAND AND CROP GROWING OR TO BE GROWN THEREON DESCRIPTION OF STOCK AND MACHINERY (IF ANY) DESCRIPTION OF SALE CONTRACT (IF ANY) Given under my/our hand(s) this .................. day of..................",
+            "description": [
+                {
+                    "representation": "(1)",
+                    "description": "Except as otherwise provided in this Act, no provision in any Act or regulation, rule, law, practice or procedure, relating to property other than registered land shall apply to any property included in a loan certificate so far as it is inconsistent with this Act."
+                },
+                {
+                    "representation": "(2)",
+                    "description": "Without prejudice to the generality of the last preceding subsection, no loan certificate shall be registrable under the Bills of Sale Act, and the provisions of the Deeds Registry Act relating to mortgages and of the Companies Act relating to the registration of mortgages or charges shall not apply to a loan certificate."
+                },
+                {
+                    "representation": "(3)",
+                    "description": "The filing by the Registrar of copies of documents in the register of the land registry shall have the like effect as a registration of the equivalent document under the Land Registry Act and the filing of a loan notice under section 8 of this Act shall operate as a stay of registration until the loan certificate is recorded and a copy thereof is filed in that registry. The Registrar of Lands shall enter upon the register the appropriate memorials of any such document upon payment of the fee prescribed by this Act."
+                },
+                {
+                    "representation": "(4)",
+                    "description": "The provisions of any Act or rule of court or practice relating to the enforcement of any mortgage or charge shall apply mutatis mutandis to the enforcement of a lien.  ___________           LAWS OF GUYANA 16 Cap. 68:06 Agricultural Loans  L.R.O. 1/2012 ss. 7, 8, 9, 16, 17,  s. 7(1)    FIRST SCHEDULE  FORMS FORM  1   THE  AGRICULTURAL LOANS  ACT LOAN CERTIFICATE  I/We   ....................................................................................... of..............................................................(herein  referred  to  as  the Farmer(s)) hereby declare that I/We"
+                },
+                {
+                    "representation": "(s)",
+                    "description": "this .................. day of.................."
+                }
+            ]
+        }
+    }
+]

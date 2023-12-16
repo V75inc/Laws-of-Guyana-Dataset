@@ -1,0 +1,105 @@
+[
+    {
+        "act": "EMPLOYMENT EXCHANGES ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "1",
+            "title": "Short title. ",
+            "context": "EMPLOYMENT EXCHANGES ACT under Short title. 1. This Act may be cited as the Employment Exchanges Act.",
+            "description": "This Act may be cited as the Employment Exchanges Act."
+        }
+    },
+    {
+        "act": "EMPLOYMENT EXCHANGES ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "2",
+            "title": "Interpretation. ",
+            "context": "EMPLOYMENT EXCHANGES ACT under Interpretation. 2. In this Act the expression employment exchange means any office or place established under this Act and used for the purpose of collecting and furnishing information, either by the keeping of registers or otherwise, respecting employers who desire to engage workpeople and workpeople who seek engagement or employment.",
+            "description": "In this Act the expression employment exchange means any office or place established under this Act and used for the purpose of collecting and furnishing information, either by the keeping of registers or otherwise, respecting employers who desire to engage workpeople and workpeople who seek engagement or employment."
+        }
+    },
+    {
+        "act": "EMPLOYMENT EXCHANGES ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "3",
+            "title": "Establishment of employment exchanges. ",
+            "context": "EMPLOYMENT EXCHANGES ACT under Establishment of employment exchanges. 3.(1) The Minister may establish and maintain employment exchanges in such places as he thinks fit for the LAWS OF GUYANA 4 Cap. 98:05 Employment Exchange  L.R.O. 1/2012  exchanges.                  Appointment of officers.            Expenses.             Regulations.                          purpose of collecting and furnishing information regarding employers requiring work people and workpeople seeking engagement or employment.  (2) The Chief Labour Officer shall have the control and general superintendence of all employment exchanges established under this Act.",
+            "description": [
+                {
+                    "representation": "(1)",
+                    "description": "The Minister may establish and maintain employment exchanges in such places as he thinks fit for the LAWS OF GUYANA 4 Cap. 98:05 Employment Exchange  L.R.O. 1/2012  exchanges.                  Appointment of officers.            Expenses.             Regulations.                          purpose of collecting and furnishing information regarding employers requiring work people and workpeople seeking engagement or employment."
+                },
+                {
+                    "representation": "(2)",
+                    "description": "The Chief Labour Officer shall have the control and general superintendence of all employment exchanges established under this Act."
+                }
+            ]
+        }
+    },
+    {
+        "act": "EMPLOYMENT EXCHANGES ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "4",
+            "title": "Appointment of officers. ",
+            "context": "EMPLOYMENT EXCHANGES ACT under Appointment of officers. 4. There shall be such officers, clerks and servants as are necessary for the proper operation of any employment exchange under this Act.",
+            "description": "There shall be such officers, clerks and servants as are necessary for the proper operation of any employment exchange under this Act."
+        }
+    },
+    {
+        "act": "EMPLOYMENT EXCHANGES ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "5",
+            "title": "Expenses. ",
+            "context": "EMPLOYMENT EXCHANGES ACT under Expenses. 5. The expenses of establishing and operating employment exchanges in the execution of the provisions of this Act shall be defrayed out of moneys provided from time to time by Parliament for that purpose.",
+            "description": "The expenses of establishing and operating employment exchanges in the execution of the provisions of this Act shall be defrayed out of moneys provided from time to time by Parliament for that purpose."
+        }
+    },
+    {
+        "act": "EMPLOYMENT EXCHANGES ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "6",
+            "title": "Regulations. ",
+            "context": "EMPLOYMENT EXCHANGES ACT under Regulations. 6. The Minister may make regulations  (a) to  regulate   the   management   of   employment exchanges;  (b) to authorise the making of advances by way of loan to  meet the  expenses  of workpeople desiring to travel to places where work has been found for them  by the employment exchange; to prescribe limits for any such loans and to attach conditions to such advances;  (c) to prescribe the forms and records to be used or kept by employment exchanges; and  (d) generally to give effect to the intention of this Act. LAWS OF GUYANA Employment Exchanges Cap. 98:05 5  L.R.O. 1/2012 Refusal to accept employment.                     Offences.",
+            "description": [
+                {
+                    "representation": "(a)",
+                    "description": "to  regulate   the   management   of   employment exchanges;"
+                },
+                {
+                    "representation": "(b)",
+                    "description": "to authorise the making of advances by way of loan to  meet the  expenses  of workpeople desiring to travel to places where work has been found for them  by the employment exchange; to prescribe limits for any such loans and to attach conditions to such advances;"
+                },
+                {
+                    "representation": "(c)",
+                    "description": "to prescribe the forms and records to be used or kept by employment exchanges; and"
+                },
+                {
+                    "representation": "(d)",
+                    "description": "generally to give effect to the intention of this Act. LAWS OF GUYANA Employment Exchanges Cap. 98:05 5  L.R.O. 1/2012 Refusal to accept employment.                     Offences."
+                }
+            ]
+        }
+    },
+    {
+        "act": "EMPLOYMENT EXCHANGES ACT",
+        "source": "https://mola.gov.gy/laws-of-guyana",
+        "type": {
+            "name": "section",
+            "representation": "7",
+            "title": "Refusal to accept employment. ",
+            "context": "EMPLOYMENT EXCHANGES ACT under Refusal to accept employment. 7. No person shall suffer any disqualification or be otherwise prejudiced on account of his refusal to accept employment found for him through an employment exchange  where the  ground of his refusal is that a trade dispute which affects his trade exists, or that the wages offered are lower than those current in the trade in the district where the employment was found.",
+            "description": "No person shall suffer any disqualification or be otherwise prejudiced on account of his refusal to accept employment found for him through an employment exchange  where the  ground of his refusal is that a trade dispute which affects his trade exists, or that the wages offered are lower than those current in the trade in the district where the employment was found."
+        }
+    }
+]

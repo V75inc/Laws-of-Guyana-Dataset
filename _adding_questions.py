@@ -230,7 +230,7 @@ def add_question(
 # llm
 provider= "azureopenai"
 model_name= "gpt-35-short"
-api_key= "556703575c12440eb97df4f3656fa19f"
+api_key= ""
 api_base= "https://gpt-4-east2-launch.openai.azure.com"
 api_version= "2023-07-01-preview"
 
